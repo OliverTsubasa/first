@@ -1,0 +1,47 @@
+body {
+    background-image: url('https://images.wallpapersden.com/image/download/purple-gradient_62249_7680x4320.jpg');
+    background-size: auto 100vh;
+    font-family: Colonna MT;
+    color: grey;
+    height: 100vh
+    
+  }
+  
+  .menu {
+    background-color: #fde0fc;
+  }
+  
+  a {
+    color: purple;
+    text-decoration: none;
+    font-family: arial;
+    font-size: small
+  }
+  
+  a:hover {
+    text-decoration: underline;
+    color: black;
+  }
+  
+  .site-title{
+    text-align: center;
+    color: whitesmoke;
+    font-size: xxx-large
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  .site-subtitle {
+    text-align: center;
+    color: purple;
+    font-style: italic;
+    font-family: comic sans ms;
+    font-size: x-large
+  }
